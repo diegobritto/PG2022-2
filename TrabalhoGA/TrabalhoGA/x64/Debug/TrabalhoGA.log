@@ -1,0 +1,126 @@
+﻿  ball_object.cpp
+  game.cpp
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\game.cpp(5,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\game.cpp(6,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  game_object.cpp
+  program.cpp
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\program.cpp(57,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  resource_manager.cpp
+  shader.cpp
+  sprite_renderer.cpp
+  texture.cpp
+  Gerando Código...
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\Libraries\include\glad\glad.h(32,1): message : consulte a definição anterior de 'APIENTRY'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_TranslateMessage, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_TranslateMessage
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_DispatchMessageW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_DispatchMessageW
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_PeekMessageW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_PeekMessageW
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_RegisterDeviceNotificationW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_UnregisterDeviceNotification, referenciado na função _glfwPlatformTerminate
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateWindowExW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_CreateWindowExW
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_DestroyWindow, referenciado na função _glfwPlatformTerminate
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_DestroyWindow
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_ShowWindow, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_ShowWindow
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_ToUnicode, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_MapVirtualKeyW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_MapVirtualKeyW
+glfw3.lib(win32_init.obj) : error LNK2019: símbolo externo não resolvido, __imp_SystemParametersInfoW, referenciado na função _glfwPlatformInit
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_SystemParametersInfoW
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateDCW, referenciado na função _glfwPlatformGetGammaRamp
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_DeleteDC, referenciado na função _glfwPlatformGetGammaRamp
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetDeviceCaps, referenciado na função _glfwGetMonitorContentScaleWin32
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetDeviceGammaRamp, referenciado na função _glfwPlatformGetGammaRamp
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetDeviceGammaRamp, referenciado na função _glfwPlatformSetGammaRamp
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetDC, referenciado na função _glfwGetMonitorContentScaleWin32
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_GetDC
+glfw3.lib(wgl_context.obj) : error LNK2001: símbolo externo não resolvido __imp_GetDC
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_ReleaseDC, referenciado na função _glfwGetMonitorContentScaleWin32
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_ReleaseDC
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_ChangeDisplaySettingsExW, referenciado na função _glfwPlatformGetVideoModes
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_EnumDisplaySettingsW, referenciado na função _glfwPlatformGetVideoMode
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_EnumDisplaySettingsExW, referenciado na função _glfwPlatformGetMonitorPos
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_EnumDisplayDevicesW, referenciado na função _glfwPollMonitorsWin32
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetMonitorInfoW, referenciado na função _glfwPlatformGetMonitorWorkarea
+glfw3.lib(win32_window.obj) : error LNK2001: símbolo externo não resolvido __imp_GetMonitorInfoW
+glfw3.lib(win32_monitor.obj) : error LNK2019: símbolo externo não resolvido, __imp_EnumDisplayMonitors, referenciado na função _glfwPollMonitorsWin32
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateBitmap, referenciado na função createIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateRectRgn, referenciado na função updateFramebufferTransparency
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DeleteObject, referenciado na função createIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateDIBSection, referenciado na função createIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_TrackMouseEvent, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetMessageTime, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SendMessageW, referenciado na função _glfwPlatformSetWindowIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_PostMessageW, referenciado na função _glfwPlatformPostEmptyEvent
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_WaitMessage, referenciado na função _glfwPlatformWaitEvents
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DefWindowProcW, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_UnregisterClassW, referenciado na função _glfwUnregisterWindowClassWin32
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_RegisterClassExW, referenciado na função _glfwRegisterWindowClassWin32
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetLayeredWindowAttributes, referenciado na função _glfwPlatformGetWindowOpacity
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetLayeredWindowAttributes, referenciado na função _glfwPlatformSetWindowOpacity
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_FlashWindow, referenciado na função _glfwPlatformRequestWindowAttention
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_MoveWindow, referenciado na função _glfwPlatformSetWindowAspectRatio
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetWindowPos, referenciado na função _glfwPlatformMaximizeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetWindowPlacement, referenciado na função createNativeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetWindowPlacement, referenciado na função createNativeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_IsWindowVisible, referenciado na função _glfwPlatformMaximizeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_IsIconic, referenciado na função _glfwPlatformWindowIconified
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_BringWindowToTop, referenciado na função _glfwPlatformCreateWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_IsZoomed, referenciado na função _glfwPlatformWindowMaximized
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_OpenClipboard, referenciado na função _glfwPlatformGetClipboardString
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_CloseClipboard, referenciado na função _glfwPlatformGetClipboardString
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetClipboardData, referenciado na função _glfwPlatformSetClipboardString
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetClipboardData, referenciado na função _glfwPlatformGetClipboardString
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_EmptyClipboard, referenciado na função _glfwPlatformSetClipboardString
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetFocus, referenciado na função _glfwPlatformCreateWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetActiveWindow, referenciado na função _glfwPlatformPollEvents
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetKeyState, referenciado na função _glfwPlatformPollEvents
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetCapture, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_ReleaseCapture, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_MsgWaitForMultipleObjects, referenciado na função _glfwPlatformWaitEventsTimeout
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetSystemMetrics, referenciado na função _glfwPlatformMaximizeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetForegroundWindow, referenciado na função _glfwPlatformCreateWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetPropW, referenciado na função createNativeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetPropW, referenciado na função _glfwPlatformPollEvents
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_RemovePropW, referenciado na função _glfwPlatformDestroyWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetWindowTextW, referenciado na função _glfwPlatformSetWindowTitle
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetClientRect, referenciado na função _glfwPlatformGetFramebufferSize
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetWindowRect, referenciado na função _glfwPlatformSetWindowAspectRatio
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_AdjustWindowRectEx, referenciado na função _glfwPlatformGetWindowFrameSize
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetCursorPos, referenciado na função _glfwPlatformPollEvents
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetCursor, referenciado na função _glfwPlatformSetCursor
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetCursorPos, referenciado na função _glfwPlatformGetCursorPos
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_ClientToScreen, referenciado na função _glfwPlatformGetWindowPos
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_ScreenToClient, referenciado na função _glfwPlatformGetCursorPos
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_WindowFromPoint, referenciado na função cursorInContentArea
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_ClipCursor, referenciado na função updateClipRect
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetRect, referenciado na função _glfwPlatformGetWindowFrameSize
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_OffsetRect, referenciado na função _glfwPlatformMaximizeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_PtInRect, referenciado na função cursorInContentArea
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetWindowLongW, referenciado na função _glfwPlatformGetWindowOpacity
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetWindowLongW, referenciado na função _glfwPlatformMaximizeWindow
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetClassLongPtrW, referenciado na função _glfwPlatformSetWindowIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_LoadCursorW, referenciado na função _glfwPlatformSetCursor
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DestroyIcon, referenciado na função _glfwPlatformDestroyCursor
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_LoadImageW, referenciado na função _glfwPlatformCreateStandardCursor
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_CreateIconIndirect, referenciado na função createIcon
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_MonitorFromWindow, referenciado na função _glfwPlatformGetWindowContentScale
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetRawInputData, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_RegisterRawInputDevices, referenciado na função _glfwPlatformSetRawMouseMotion
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DragQueryFileW, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DragQueryPoint, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DragFinish, referenciado na função windowProc
+glfw3.lib(win32_window.obj) : error LNK2019: símbolo externo não resolvido, __imp_DragAcceptFiles, referenciado na função createNativeWindow
+glfw3.lib(win32_joystick.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetRawInputDeviceInfoA, referenciado na função deviceCallback
+glfw3.lib(win32_joystick.obj) : error LNK2019: símbolo externo não resolvido, __imp_GetRawInputDeviceList, referenciado na função deviceCallback
+glfw3.lib(wgl_context.obj) : error LNK2019: símbolo externo não resolvido, __imp_ChoosePixelFormat, referenciado na função _glfwInitWGL
+glfw3.lib(wgl_context.obj) : error LNK2019: símbolo externo não resolvido, __imp_DescribePixelFormat, referenciado na função _glfwCreateContextWGL
+glfw3.lib(wgl_context.obj) : error LNK2019: símbolo externo não resolvido, __imp_SetPixelFormat, referenciado na função _glfwCreateContextWGL
+glfw3.lib(wgl_context.obj) : error LNK2019: símbolo externo não resolvido, __imp_SwapBuffers, referenciado na função swapBuffersWGL
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\x64\Debug\TrabalhoGA.exe : fatal error LNK1120: 97 externo não resolvidos

@@ -1,0 +1,11 @@
+﻿  game.cpp
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\game.cpp(5,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\game.cpp(6,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  program.cpp
+D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\program.cpp(57,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Gerando código
+  5 of 651 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  TrabalhoGA.vcxproj -> D:\Unisinos\pg\PG2022-1\TrabalhoGA\TrabalhoGA\x64\Release\TrabalhoGA.exe
